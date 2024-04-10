@@ -3,7 +3,7 @@ package co.com.ps.b3;
 public class Trabajoenclase1 {
 
     String color;
-    String size;
+    String tamanio;
     int canthojas;
     String marca;
     String material;
