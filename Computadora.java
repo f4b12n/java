@@ -4,7 +4,7 @@ package co.com.ps.b3;
 
 public enum Computadora {
 
-    PANTALLA, TECLADO, MOUSE, CPU
+    PANTALLA, TECLADO, MOUSE, CP
 
 }
 
