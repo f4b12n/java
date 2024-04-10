@@ -6,7 +6,7 @@ public class Trabajoenclase4 {
         Computadora pantalla = Computadora.PANTALLA;
         Computadora teclado = Computadora.TECLADO;
         Computadora mouse = Computadora.MOUSE;
-        Computadora CPU = Computadora.CPU;
+        Computadora cpu = Computadora.CPU;
 
         System.out.println(teclado);
         System.out.println(mouse);
