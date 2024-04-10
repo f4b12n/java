@@ -10,7 +10,7 @@ public class Trabajoenclase4 {
 
         System.out.println(teclado);
         System.out.println(mouse);
-        System.out.println(CPU);
+        System.out.println(cpu);
         System.out.println(pantalla);
     }
 }
