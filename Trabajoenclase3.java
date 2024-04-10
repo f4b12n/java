@@ -36,6 +36,7 @@ public class Trabajoenclase3 {
 
         System.out.println("\nEn esta lista hay " + cont + " palabras con mas de 4 letras");
 
+        reader.close();
     }
 
 }
